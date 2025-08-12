@@ -36,7 +36,6 @@ This project is a fully functional **E-commerce website** built using **Python D
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/kishan12345/E-commerce-site-Django-project.git
 Install the necessary dependencies:
 
 Install Django:
